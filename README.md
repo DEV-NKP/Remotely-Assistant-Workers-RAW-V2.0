@@ -45,15 +45,24 @@ Thank you everyone.
 -------------------------------------------------
 
  >> Open xampp controle panel and start the actions of "Apache" and "MySQL" module.
+ 
  >> Click on the "Admin" option of "MySQL" module.
+ 
  >> This will redirect to "phpMyAdmin" server tool.
+ 
  >> Click on "SQL" button and paste the sql command "CREATE DATABASE RAW".
+ 
  >> Click on "go" button and a database nammed "RAW" will be created.
+ 
  >> Call command prompt from your device and go to "Remotely Assistant Workers (RAW)" folder.
+ 
  >> Paste these statements "javac -cp .;Resources/External_Jar/*; start.java
                             java -cp .;Resources/External_Jar/*; start".
+			    
  >> Press enter and wait for the application to open.
+ 
  >> Command promt will open the application for RAW(Remotely Assistant Workers).
+ 
  >> The system will be ready to use.
 
 
@@ -62,12 +71,19 @@ Thank you everyone.
 ---------------------------
 
  >> Open xampp controle panel and start the actions of "Apache" and "MySQL" module.
+ 
  >> Click on the "Admin" option of "MySQL" module.
+ 
  >> This will redirect to "phpMyAdmin" server tool.
+ 
  >> Click on "SQL" button and paste the sql command "CREATE DATABASE RAW".
+ 
  >> Click on "go" button and a database nammed "RAW" will be created.
+ 
  >> Open "Remotely Assistant Workers (RAW)" folder.
+ 
  >> Open "start.bat" from folder.
+ 
  >> After opening, you are welcome to use RAW.
 
 --------------------
