@@ -90,18 +90,18 @@ Thank you everyone.
 | How to use "RAW" |
 --------------------
 
- >> First, make sure your console box is in the full screen and font size is '20'.
- >> To get access to the administrative permissions, administrator Username: admin and Password: admin. 
- >> If you are looking for people to get work done, make sure you have signed up as a "Buyer".
- >> You can get various categories of work by signing up as a "Seller".
- >> When signing up in the system your input name must be a string type.
- >> For entering email, a valid email is required.
- >> To verify yourself you must enter the OTP after confirming the password.
- >> For mobile number, you have to give a valid mobile number. 
- >> You must fill all the required field.
- >> The generated account no of your account must be noted for further purposes.
- >> In case of forgeting password, you will get a mail on your valid mail address to get the OTP to verify yourself.
- >> There are 3 different users: Admin, Seller & Buyer.
+ 1. First, make sure your console box is in the full screen and font size is '20'.
+ 2. To get access to the administrative permissions, administrator Username: admin and Password: admin. 
+ 3. If you are looking for people to get work done, make sure you have signed up as a "Buyer".
+ 4. You can get various categories of work by signing up as a "Seller".
+ 5. When signing up in the system your input name must be a string type.
+ 6. For entering email, a valid email is required.
+ 7. To verify yourself you must enter the OTP after confirming the password.
+ 8. For mobile number, you have to give a valid mobile number. 
+ 9. You must fill all the required field.
+ 10. The generated account no of your account must be noted for further purposes.
+ 11. In case of forgeting password, you will get a mail on your valid mail address to get the OTP to verify yourself.
+ 12. There are 3 different users: Admin, Seller & Buyer.
 
    Admin :
    
