@@ -84,6 +84,7 @@ Thank you everyone.
  >> There are 3 different users: Admin, Seller & Buyer.
 
    Admin :
+   
            1. Job Details                  - This feature will be available from next version of RAW.
            2. User Details                 - This feature will be available from next version of RAW.
            3. Ban User                     - This feature will be available from next version of RAW.
@@ -169,50 +170,50 @@ From this point onward, the system is going to be introduced here is "Remotely A
 | Project Highlights |
 ----------------------
 
-# The Raw's home page has three sections for the convenience of the users - Sign Up, Log In and Admin Access. It is designed in a properly structured way so that you can find the options easily.
+> The Raw's home page has three sections for the convenience of the users - Sign Up, Log In and Admin Access. It is designed in a properly structured way so that you can find the options easily.
 ![LANDING_PAGE!](README_IMAGE/landing_page.png)
 
-# RAW has a Remember Me option to reduce log in suffering.
+> RAW has a Remember Me option to reduce log in suffering.
 ![REMEMBER_ME!](README_IMAGE/remember_me.png)
 
-# You can choose your preferred method as per your convenience to contact with Admin.
+> You can choose your preferred method as per your convenience to contact with Admin.
 ![CONTACT_OPTION!](README_IMAGE/contact_option.png)
 
-# There are three options if a User reports about the software, user, or account so that the user can give more detail about the report's reason.
+> There are three options if a User reports about the software, user, or account so that the user can give more detail about the report's reason.
 ![REPORT!](README_IMAGE/report.png)
 
-# To report user raw gives options for the reporter that make it easy to describe the reason briefly.
+> To report user raw gives options for the reporter that make it easy to describe the reason briefly.
 ![USER_REPORT!](README_IMAGE/user_report.png)
 
-# In every input section, the total letter is counted at the top so that the user can see the character limit of each section.
+> In every input section, the total letter is counted at the top so that the user can see the character limit of each section.
 ![LETTER_COUNT!](README_IMAGE/letter_count.png)
 
-# A valid mobile number is only granted in the system. For every input of an invalid phone number, a warning is given there.
+> A valid mobile number is only granted in the system. For every input of an invalid phone number, a warning is given there.
 ![VALID_PHONE!](README_IMAGE/valid_phone.png)
 
-# Including 260 countries flag and country code is provided with each country's name to choose the country code of the user's phone number.
+> Including 260 countries flag and country code is provided with each country's name to choose the country code of the user's phone number.
 ![COUNTRY_CODE!](README_IMAGE/country_code.png)
 
-# By giving the required message it is made clear to the user which input section is required and which is not.
+> By giving the required message it is made clear to the user which input section is required and which is not.
 ![REQUIRED_MESSAGE!](README_IMAGE/required_message.png)
 
-# At the time of signing up and changing the password, a one-time password will be sent to your mail to verify the User.
+> At the time of signing up and changing the password, a one-time password will be sent to your mail to verify the User.
 ![VERIFY!](README_IMAGE/verify.png)
 
-# A 16-digit unique account no is generated in every sign-up of Buyers and Seller.
+> A 16-digit unique account no is generated in every sign-up of Buyers and Seller.
 ![ACCOUNT_NO!](README_IMAGE/account_no.png)
 
-# Every inputted email is checked with the email validation system and database.
+> Every inputted email is checked with the email validation system and database.
 ![VALID_EMAIL!](README_IMAGE/valid_email.png)
 
-# In every password confirmation, the password is inputted two times that ensures security and provides an errorless facility.
+> In every password confirmation, the password is inputted two times that ensures security and provides an errorless facility.
 ![PASSWORD!](README_IMAGE/password.png)
 
-# User skills are shown in a user-friendly way in RAW. Which is easy to add and remove with a single click.
+> User skills are shown in a user-friendly way in RAW. Which is easy to add and remove with a single click.
 ![SKILL!](README_IMAGE/skill.png)
 
-# RAW has a unique and colorful designed logo.
-![LOGO!](README_IMAGE/logo.PNG)
+> RAW has a unique and colorful designed logo.
+![LOGO!](README_IMAGE/logo.png)
 
 ********************************************ⒸAll Rights Reserved By "TEAM_RAW"********************************************
 
