@@ -11,7 +11,7 @@ Remotely Assistant Workers or "RAW" was built with a view to reduce the unemploy
 Thank you everyone.
 
 
->> YouTube video link:
+>> YouTube video link: https://youtu.be/AuJNB6E_LVY
 
 
 -------------------
