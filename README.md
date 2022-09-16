@@ -19,9 +19,13 @@ Thank you everyone.
 -------------------
 
  >> Any version of windows operating system which is compatible to run Notepad++.
+ 
  >> Nodepad++
+ 
  >> XAMPP
+ 
  >> MySQL server
+ 
  >> Java Development Kit(JDK) Version 8
 
 --------------------------
